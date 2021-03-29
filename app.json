@@ -1,8 +1,8 @@
 {
-  "name": "Strapi",
-  "description": "Strapi Starter blog",
+  "name": "Michael Timpson Backend Portfolio",
+  "description": "Strapi backend for portfolio site.",
   "keywords": ["strapi", "heroku", "starter", "blog"],
-  "repository": "https://github.com/strapi/strapi-starter-blog",
+  "repository": "https://github.com/Mtimpson/portfolio-backend.git",
   "env": {
     "CLOUDINARY_CLOUD_NAME": {
       "description": "The 'Cloud name' of your Cloudinary account",
